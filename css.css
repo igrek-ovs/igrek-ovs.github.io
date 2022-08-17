@@ -1,0 +1,121 @@
+body {
+    background-color: rgb(28, 189, 167);
+}
+nav ul {
+    list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #010e80;
+	display: table;
+	width: 100%;
+}
+nav li {
+	display: table-cell
+}
+
+li a {
+    text-transform: uppercase;
+    font-size: 20px;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 40px 40px;
+	text-decoration: none;
+}
+li a:hover {
+    background-color: rgb(179, 50, 157);
+}
+h1 { font-family: Papyrus, fantasy; font-size: 100px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 44px; text-align: center; height: 800px; } 
+    header {
+        height: 900px; /* Высота блока */
+        border: 2px solid #000; /* Параметры рамки */
+        background: url(https://phonoteka.org/uploads/posts/2021-06/thumbs/1624395348_6-phonoteka_org-p-oboi-na-telefon-ribalka-krasivo-7.jpg) 100% 100% no-repeat; /* Добавляем фон */
+        background-size: cover; /* Масштабируем фон */
+    }
+h2 {
+    padding-left:100px;
+    font-size: 60px;
+    color: rgb(42, 70, 44);
+}
+.with-beer p {
+    font-size:45px;
+    border: 3px solid rgb(253, 3, 3);
+    position:relative;
+    top: 50px;
+    width: 1200px;
+    margin: 0 auto;
+    background-color: rgb(40, 5, 137);
+    color: rgb(232, 214, 19);
+}
+.with-beer {
+    padding-bottom:100px;
+}
+.firstImage img {
+
+height:500px;
+width:1000px;
+border: 5px solid rgb(250, 10, 134);
+}
+.firstImage {
+    text-align: center;
+    padding-bottom:100px;
+}
+.firstImage figcaption {
+    font-size:30px;
+    color: rgb(87, 9, 146);
+}
+h3 {
+    padding-left:100px;
+    font-size: 45px;
+    color: rgb(42, 70, 44);
+}
+.ol-list1 ol {
+    color:blue;
+    border: 3px solid rgb(120, 107, 230);
+    position: relative;
+    margin: 0 auto;
+    padding-left:500px;
+}
+.ol-list1 ol li {
+    font-size: 30px;
+    padding:10px 10px;
+    
+}
+#vodka p {
+    font-size:45px;
+    border: 3px solid rgb(253, 3, 3);
+    position:relative;
+    top: 50px;
+    width: 1200px;
+    margin: 0 auto;
+    background-color: rgb(40, 5, 137);
+    color: rgb(232, 214, 19);
+}
+.padd {
+    padding-bottom:100px;
+}
+.second-pic img {
+    height:700px;
+    width:1000px; 
+    border: 5px solid rgb(250, 10, 134);
+}
+.second-pic {
+    text-align:center;
+}
+.second-pic figcaption {
+    font-size:30px;
+    color: rgb(87, 9, 146); 
+}
+#lodka p {
+    text-align:left;
+    font-size: 30px;
+}
+footer {
+    color: rgb(6, 209, 67);
+    text-align: center;
+    font-size:40px;
+}
+#about {
+    background-color: rgb(57, 33, 119);
+}
